@@ -24,3 +24,11 @@ Desc > Suavizado de la cola del cohete a tipo (Under-Expanded Nozzle)
 Commit > Modelo revisado
 =---------------=
 
+=---------------=
+#18 Programa viajes El Corte Inglés
+
+Desc > A los clientes no se les mostraba bien su saldo en la cuenta
+
+Commit > Funciones get estaban comentadas :/ ahora va bien
+=---------------=
+
