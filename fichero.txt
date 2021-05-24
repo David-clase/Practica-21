@@ -25,10 +25,18 @@ Commit > Modelo revisado
 =---------------=
 
 =---------------=
-#18 Programa viajes El Corte Inglés
+#8 Programa viajes El Corte Inglés
 
 Desc > A los clientes no se les mostraba bien su saldo en la cuenta
 
 Commit > Funciones get estaban comentadas :/ ahora va bien
+=---------------=
+
+=---------------=
+#18 Creacion de sprites
+
+Desc > Nuestro juego del pajaro no tiene imagenes para el personaje
+
+Commit > Ya le hemos creado una con paint
 =---------------=
 
