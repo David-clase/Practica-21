@@ -8,5 +8,11 @@ Desc > Acabar los problemas propuestos del tema 5
 Commit > Tarea acabada con exito
 =---------------=
 
+=---------------=
+#26 Tarea T2
 
+Desc > Finalizar ejercicios propuestos tema 2
+
+Commit > Tarea acabada con exito
+=---------------=
 
