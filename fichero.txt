@@ -16,3 +16,11 @@ Desc > Finalizar ejercicios propuestos tema 2
 Commit > Tarea acabada con exito
 =---------------=
 
+=---------------=
+#7 Optimizaciones de A3-22
+
+Desc > Suavizado de la cola del cohete a tipo (Under-Expanded Nozzle)
+
+Commit > Modelo revisado
+=---------------=
+
