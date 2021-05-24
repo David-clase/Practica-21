@@ -1,1 +1,12 @@
 REGISTRO DE ACTIVIDADES
+
+=---------------=
+#35 Tarea T5
+
+Desc > Acabar los problemas propuestos del tema 5
+
+Commit > Tarea acabada con exito
+=---------------=
+
+
+
